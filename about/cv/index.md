@@ -8,42 +8,32 @@ comments: false
 
 Also available in **[PDF form]( {{ site.url }}/assets/TylerBroughCV.pdf)**.
 
-Education 
-=========
 
--   Ph.D. Finance, University of Arizona, 2010.
+## Education
 
--   M.S. Finance, University of Illinois at Urbana–Champaign, 2004.
+* Ph.D. Finance, University of Arizona, 2010.
 
--   B.S. Economics, Brigham Young University, 2000.
+* M.S. Finance, University of Illinois at Urbana-Champaign, 2004.
 
-Experience 
-==========
+* B.S. Economics, Brigham Young University, 2000.
 
--   Utah State University, Huntsman School of Business, Department of
-    Economics and Finance
+## Experience
 
-    -   Assistant Professor, August 2010 – Present.
+* Utah State Univeristy, Huntsman School of Business, Department of Economics and Finance
+    - Assistant Professor, August 2010 - Present.
 
--   University of Arizona
+* University of Arizona
+    - Research Assistant, August 2005 - July 2010.
+    - Instructor, Summer 2007 & Summer 2008.
+    - Data Czar, 2006 - 2009.
 
-    -   Research Assistant, August 2005 – July 2010.
+* Russell Investment Group
+    - Quantitative Analyst, June 2005 - July 2005.
 
-    -   Instructor, Summer 2007 & Summer 2008.
+* Brigham Young University, Marriott School of Business, Department of Finance
+    - Research Associate, January 2000 - August 2003.
 
-    -   Data Czar, 2006 – 2009.
-
--   Russell Investment Group
-
-    -   Quantitative Analyst, June 2004 – July 2005.
-
--   Brigham Young University, Marriott School of Business, Department of
-    Finance
-
-    -   Research Associate, January 2000 – August 2003.
-
-Fields of Research Interest 
-===========================
+## Fields of Research Interest 
 
 Market Microstructure, Derivatives Markets, Applied Econometrics, and
 Computational Methods
