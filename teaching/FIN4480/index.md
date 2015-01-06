@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Finance 4480 Derivatives Markets
+title: 
 tags: []
 modified: 2015-01-06
 comments: false

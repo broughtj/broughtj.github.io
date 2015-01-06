@@ -11,7 +11,10 @@ In Spring 2015 I will be teaching three courses:
 
 ## Finance 4480 - Derivatives Markets
 
-You can see the class page **[here](/teaching/FIN4480)**.
+Finance 4480 is an undergraduate introductory course on derivatives markets covering the institutional features of
+modern derivarives markets as well as pricing models their application for trading and hedging. The basics of the Python
+programming language is taught to reinforce learning and to give practical real-world experience implementing these
+models. You can see the class page **[here](/teaching/FIN4480)**.
 
 ## Finance 6470 - Derivatives Markets
 

@@ -8,7 +8,7 @@ comments: false
 
 Also available in **[PDF form]( {{ site.url }}/assets/TylerBroughCV.pdf)**.
 
-Education {#education .unnumbered}
+Education 
 =========
 
 -   Ph.D. Finance, University of Arizona, 2010.
@@ -17,7 +17,7 @@ Education {#education .unnumbered}
 
 -   B.S. Economics, Brigham Young University, 2000.
 
-Experience {#experience .unnumbered}
+Experience 
 ==========
 
 -   Utah State University, Huntsman School of Business, Department of
@@ -42,7 +42,7 @@ Experience {#experience .unnumbered}
 
     -   Research Associate, January 2000 – August 2003.
 
-Fields of Research Interest {#fields-of-research-interest .unnumbered}
+Fields of Research Interest 
 ===========================
 
 Market Microstructure, Derivatives Markets, Applied Econometrics, and
