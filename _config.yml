@@ -31,8 +31,8 @@ owner:
   bio: "I am an assistant professor of finance at Utah State University specializing in financial markets, applied econometrics, and computational methods."
   email: tyler.brough@usu.edu
   disqus-shortname: 
-  twitter: broughtj
-  facebook: broughtj
+  twitter: 
+  facebook: 
   google:
     plus: broughtj
     analytics: 
@@ -42,7 +42,7 @@ owner:
   bing-verify: 
   github: broughtj
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: tyler-brough 
   instagram: #username
   lastfm: #username
   tumblr: #username
