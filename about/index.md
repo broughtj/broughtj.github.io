@@ -9,7 +9,7 @@ image:
   credit: TJB 
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Greetings! My name is **Tyler J. Brough**. I am an assistant professor of finance at [Utah State University](www.usu.edu). In my research I specialize in market microstructure, derivatives markets, applied econometrics and computational methods. I teach courses in corporate finance, derivatives markets, and computational methods.
 
 ## Minimal Mistakes is all about:
 
@@ -21,4 +21,3 @@ Minimal Mistakes is responsive Jekyll theme with large featured images and solid
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * Support for Disqus Comments
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
