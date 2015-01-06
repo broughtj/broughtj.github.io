@@ -9,7 +9,7 @@ image:
   credit: TJB 
 ---
 
-Greetings! My name is **Tyler J. Brough**. I am an assistant professor of finance at [Utah State University](www.usu.edu). In my research I specialize in market microstructure, derivatives markets, applied econometrics and computational methods. I teach courses in corporate finance, derivatives markets, and computational methods.
+Greetings! My name is **Tyler J. Brough**. I am an assistant professor of finance at [Utah State University](http://www.usu.edu). In my research I specialize in market microstructure, derivatives markets, applied econometrics and computational methods. I teach courses in corporate finance, derivatives markets, and computational methods.
 
 ## Minimal Mistakes is all about:
 
