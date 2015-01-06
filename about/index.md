@@ -11,5 +11,5 @@ comments: false
 My name is **Tyler J. Brough**. I am an assistant professor of finance at [Utah State University](http://www.usu.edu/). In my research I specialize in market microstructure, derivatives markets, applied econometrics and computational methods. I teach courses in corporate finance, derivatives markets, and computational methods.
 
 
-On this site you can find my **[CV]({{ site.url }}/assets/TylerBroughCV.pdf)** and **[publications]({{ site.url
+On this site you can find my **[CV](/about/cv/)** and **[publications](/research)**.
 }}/research).
