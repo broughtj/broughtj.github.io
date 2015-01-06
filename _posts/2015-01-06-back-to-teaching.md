@@ -1,0 +1,12 @@
+---
+layout: post
+title: Back to Teaching 
+excerpt: 
+modified: 2015-01-06 
+tags: [intro, beginner, jekyll, tutorial]
+comments: false 
+---
+
+# Back to Teaching
+
+This semester (Spring 2015) marks my return to teaching after having the fall semester off for research.
