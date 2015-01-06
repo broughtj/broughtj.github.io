@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Tyler J. Brough 
 locale:           en_US
 url:              
 
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Tyler J. Brough 
+  avatar: tyler-brough.jpg
+  bio: "I am an assistant professor of finance at Utah State University specializing in market microstructure, derivatives markets, applied econometrics, and computational methods."
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: #broughtj
+  facebook: #broughtj
   google:
-    plus: #username
+    plus: #broughtj
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: #broughtj
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
