@@ -23,14 +23,17 @@ Also available in **[PDF form]( {{ site.url }}/assets/cv/TylerBroughCV.pdf)**.
     - Assistant Professor, August 2010 - Present.
 
 
+
 * University of Arizona
     - Research Assistant, August 2005 - July 2010.
     - Instructor, Summer 2007 & Summer 2008.
     - Data Czar, 2006 - 2009.
 
 
+
 * Russell Investment Group
     - Quantitative Analyst, June 2005 - July 2005.
+
 
 
 * Brigham Young University, Marriott School of Business, Department of Finance
