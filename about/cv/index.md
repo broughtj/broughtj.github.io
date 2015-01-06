@@ -6,7 +6,7 @@ modified: 2015-01-06
 comments: false
 ---
 
-Also available in **[PDF form]( {{ site.url }}/assets/TylerBroughCV.pdf)**.
+Also available in **[PDF form]( {{ site.url }}/assets/cv/TylerBroughCV.pdf)**.
 
 
 ## Education
