@@ -3,13 +3,12 @@
 - title: About
   url: /about/
 
-- title: Recent Posts 
-  url: /posts/
-
 - title: Research
   url: /research/
 
-- title: Courses 
-  url: /courses/
+- title: Teaching 
+  url: /teaching/
 
+- title: Recent Posts 
+  url: /posts/
 
