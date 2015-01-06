@@ -9,8 +9,6 @@ image:
   credit: TJB 
 ---
 
-## Teaching
-
 In Spring 2015 I will be teaching three courses:
 
 * Finance 4480 - Derivatives markets. This is an undergraduate introductory course in derivatives markets
