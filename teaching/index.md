@@ -4,9 +4,6 @@ title: Teaching
 tags: [derivative markets, python, computational methods]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
-image:
-  feature: cme1.jpg
-  credit: TJB 
 ---
 
 In Spring 2015 I will be teaching three courses:
