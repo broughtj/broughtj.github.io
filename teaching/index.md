@@ -8,6 +8,15 @@ comments: false
 
 In Spring 2015 I will be teaching three courses:
 
-* Finance 4480 - Derivatives markets. This is an undergraduate introductory course in derivatives markets
-* Finance 6470 - Derivatives markets. This is a graduate course in derivatives markets and is part of the [MSFE](http://huntsman.usu.edu/msfe/) degree at Utah State University.
-* Finance 6320 - Computational methods. This is a graduate introductory course in computational methods for financial economics. It is also part of the MFSE program.
+
+## Finance 4480 - Derivatives Markets
+
+You can see the class page **[here](/teaching/FIN4480)**.
+
+## Finance 6470 - Derivatives Markets
+
+
+## Finance 6320 - Computational Methods
+
+
+
