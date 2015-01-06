@@ -17,6 +17,8 @@ You can read the syllabus **[here](/teaching/FIN4480/syllabus)**. You can also d
 
 ## Lecture Notes
 
-
+You will be able to download lecture notes **[here](/teacing/FIN4480/lectures)**.
 
 ## Assignments
+
+I will post assignments **[here](/teaching/FIN4480/assignments)**.
