@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 tags: [derivative markets, python, computational methods]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2015-01-07
 comments: false 
 ---
 
