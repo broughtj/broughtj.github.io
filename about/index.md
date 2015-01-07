@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tyler J. Brough 
+title: 
 tags: [about, Tyler J. Brough, Tyler Jon Brough, Brough, Tyler]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false 
