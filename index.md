@@ -4,5 +4,6 @@ excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: Cache2.jpg
-  credit: 
+  credit: Denny Taggart
+  creditlink: http://www.dtaggartphotography.com/
 ---
