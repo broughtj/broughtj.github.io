@@ -18,9 +18,10 @@ models.
 
 ## Finance 6470 - Derivatives Markets
 
-[Here](/teaching/FIN6320)
+**[Finance 6470](/teaching/FIN4770)** is a graduate level course on derivatives markets. It covers market institutions and the basic pricing models, but also introduces more advanced concepts from financial economics including stochastic calculus, risk-neutral pricing, and the equivalent martingale pricing methodology and its associated mathematics. Python programming is used to reinforce concepts, but programming is not the main focus of the course.
 
 ## Finance 6320 - Computational Methods
 
+**[Finance 6320](/teaching/FIN6320)** is a graduate level introduction to scientific programming for modern financial economics and econometrics. Students learn to program in the Python programming language, which has become the de facto standard for scientific and numerical computing. Topics include basic numerical methods, Monte Carlo simulation, and software engineering best practices for scientists. High performance computing is  briefly covered. Students complete a class project in either numerical derivatives pricing or financial econometrics. 
 
 
