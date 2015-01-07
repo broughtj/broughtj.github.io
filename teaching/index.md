@@ -18,7 +18,7 @@ models.
 
 ## Finance 6470 - Derivatives Markets
 
-**[Finance 6470](/teaching/FIN4770)** is a graduate level course on derivatives markets. It covers market institutions and the basic pricing models, but also introduces more advanced concepts from financial economics including stochastic calculus, risk-neutral pricing, and the equivalent martingale pricing methodology and its associated mathematics. Python programming is used to reinforce concepts, but programming is not the main focus of the course.
+**[Finance 6470](/teaching/FIN6470)** is a graduate level course on derivatives markets. It covers market institutions and the basic pricing models, but also introduces more advanced concepts from financial economics including stochastic calculus, risk-neutral pricing, and the equivalent martingale pricing methodology and its associated mathematics. Python programming is used to reinforce concepts, but programming is not the main focus of the course.
 
 ## Finance 6320 - Computational Methods
 
