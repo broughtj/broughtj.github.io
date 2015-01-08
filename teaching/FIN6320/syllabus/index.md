@@ -79,46 +79,16 @@ Python is a very good choice for a programming language for this course. As a pr
 
 ## Topics (Subject to Change)
 
-|:-----------------------------------------|:------------------------------------|
-| Section 1 - Python Programming           | Book Sections                       |
-|:-----------------------------------------|:------------------------------------|
-| SMC & Anaconda Python                    |                                     |
-| UNIX, Vim & Git                          | Handouts & Online material          |
-| IPython & IPython notebooks              | Handout                             |
-| Python types, variables & simple I/O     | Appendix (PFDA)                     |
-| Branching & Looping                      | Appendix (PFDA)                     |
-| Data structures                          | Appendix (PFDA)                     |
-| Functions                                | Appendix (PFDA)                     | 
-| Classes, Objects & OOP                   | Appendix (PFDA)                     |
-| NumPy, SciPy, Pandas & Matplotlib        | Chps. 3, 4, 5 & 12 (PFDA)           |
-|:-----------------------------------------|:------------------------------------| 
-| Section 2 - Pricing & Hedging            |                                     |
-|:-----------------------------------------|:------------------------------------|
-| The Binomial model                       | Chps. 10 - 11 (DM)                  |
-| The Black-Scholes model                  | Chps. 12 - 13 (DM)                  |
-| Implied volatility                       | Handout                             |
-| Econometric volatility estimation        | Handout                             |
-| Monte Carlo Methods                      | Chp. 19 (DM)                        |
-| Exotic options                           | Chps. 14 & 23 (DM)                  |
-| American options                         | Handout                             |
-| Stochastic volatility & Jumps            | Chp. 24 (DM)                        |
-| Numerical PDE methods                    | Handout                             |
-|:-----------------------------------------|:------------------------------------|
-| Section 3 - Bayesian Econometrics        |                                     |
-|:-----------------------------------------|:------------------------------------|
-| The Sampling Distribution                | Handout                             |
-| Monte Carlo Studies                      | Handout                             |
-| The Bayesian Algorithm                   | Chp. 1 (AIMBE)                      |
-| Bayesian Linear Regression               | Chp. 3 (AIMBE)                      |
-| Markov Chain Monte Carlo Methods         | Chp. 4 (AIMBE) & Handout            |
-| Multivariate Time Series Methods         | Handout                             |
-|:-----------------------------------------|:------------------------------------|
-| Section 4 - High Performance Python      |                                     |
-|:-----------------------------------------|:------------------------------------|
-| Cython                                   | Handout                             |
-| IPython Parallel                         | Handout                             |
-| GPU Computing                            | Handout                             |
-|:-----------------------------------------|:------------------------------------|
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
+
 Important Dates:
 
 * **Feb 17** - Monday Schedule
