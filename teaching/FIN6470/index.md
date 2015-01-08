@@ -8,6 +8,12 @@ comments: false
 
 ## Course Description 
 
+This course covers forwards, futures, options, and swaps. By the end of
+the course, you will have a solid knowledge of how these products work,
+how they are used, how they are priced, how financial institutions trade
+them to hedge and speculate, as well as of the markets in which they
+trade.
+
 
 ## Syllabus
 
