@@ -74,9 +74,9 @@ We will be mainly using two different tools for Python:
 
 * The [Sage Math Cloud](https://cloud.sagemath.com/), which I will refer to as SMC. This is a free computing service offered by the University of Washington in partnership with Google. Please create an account as soon as possible.
 
-* The [Anaconda](https://store.continuum.io/cshop/anaconda) edition of Python by Continuum Analytics. This will have every thing that we will need preinstalled. Please install the version that comes with Python 3. It is completely free.
+* The [Anaconda](https://store.continuum.io/cshop/anaconda) edition of Python by Continuum Analytics. This will have every thing that we will need pre-installed. Please install the version that comes with Python 3. It is completely free.
 
-Python is a very good choice for a programming language for this course. As a programming language, Python is fairly easy to learn and can be put to productive use very quickly. Python has become the de facto standard scripting language for scientific computing, and is widely usd in the finance industry. 
+Python is a very good choice for a programming language for this course. As a programming language, Python is fairly easy to learn and can be put to productive use very quickly. Python has become the de facto standard scripting language for scientific computing, and is widely used in the finance industry. 
 
 
 ## Topics (Subject to Change)
@@ -111,7 +111,7 @@ Python is a very good choice for a programming language for this course. As a pr
 | Multivariate Time Series                    | Handouts                    |
 |                                             |                             |
 | Cython                                      | Handout                     |
-| IPython Paralles                            | Handout                     | 
+| IPython Parallel                            | Handout                     | 
 | GPU Computing                               | Handout                     | 
 
 
