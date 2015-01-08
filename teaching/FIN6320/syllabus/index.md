@@ -13,7 +13,7 @@ Finance 6320 - Computational Methods
 * **Office:** BUS 605
 * **Course Dates:** January 7 - May 1, 2015
 * **Course Room:** [Engineering Laboratory](http://www.usu.edu/map/index.cfm?id=31) 248 
-* **Course Time:** TR 12:00 - 1:15 PM 
+* **Course Time:** TR 9:00 - 10:15 PM 
 * **Office hours:** TBD 
 
 
