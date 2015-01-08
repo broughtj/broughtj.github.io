@@ -27,10 +27,29 @@ On this page you can review my research publications and work in progress.
 -	Blau, B., Brough, T., and Thomas, D. (2013) [Corporate lobbying, political connections, and the bailout of banks](http://goo.gl/wUsH01),
 	*Journal of Banking and Finance*, Vol. 37, No. 8, pp. 3007 - 3017. 
 
+-	Alldredge, D., Blau, B., and Brough, T. (2012) [After Hours Short Selling](http://goo.gl/HLWUcX),
+	*Journal of Economics and Business*, Vol. 64, No. 6, pp. 439 - 451.
+
+-	Blau, B., and Brough, T. (2012) [Short Sales, Stealth Trading, and the Suspension of the Uptick Rule](http://goo.gl/VHDpUx),
+	*Quarterly Review of Economics and Finance*, Vol. 52, No. 1, pp. 38 - 48.
+
+-	Blau, B., and Brough, T. (2012) [Concentrated Short-Selling Activity: Bear Raids or Contrarian Trading?](http://goo.gl/xwzol8),
+	*International Journal of Managerical Finance*, Vol. 8, No. 3 , pp. 187 - 203.
+
+-	Blau, B., and Brough, T. (2011) [Is the Trading of Inverse ETF's a Bearish Signal?](http://goo.gl/mIIu5t),
+	*Journal of Trading*, Vol. 6, No. 3, pp. 32 - 40.
+
+
 ## Work in Progress 
+
+-	Brough, T. (2015) [Teaching Financial Derivativates with the Python Programming Language]().
+
+-	Aldrich, E., and Brough, T. (2015) [Predictive Model Averaging for Bayesian Option Pricing]().
 
 
 # Book
+
+I am under contract with Apress Publishers to write a book titled [Beginning `C++` for Financial Analysts]() to be published in 2015. The book assumes no programming experience, but does assume a familiarity with financial economics at the masters level. 
 
 
 
