@@ -1,8 +1,10 @@
 ---
-Title:  Finance 6320 Syllabus
-Author: Tyler J. Brough 
-Date:   January 8, 2015 
+layout: page
+title:
+tags: []
+modified: 2015-01-07
 ---
+
 
 Finance 6320 - Computational Methods 
 ====================
@@ -79,15 +81,40 @@ Python is a very good choice for a programming language for this course. As a pr
 
 ## Topics (Subject to Change)
 
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
-+---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - tasty            |
-+---------------+---------------+--------------------+
+|:--------------------------------------------|:----------------------------|
+| Lecture Topic                               | Readings                    |
+| SMC & Anaconda Python                       |                             | 
+| Unix Vim & Git                              | Handouts & Online Material  |
+| IPython & IPython Notebooks                 | Appendix (PFDA)             |
+| Python types variables & Simple IO          | Appendix (PFDA)             |
+| Branching & Looping                         | Appendix (PFDA)             |
+| Data Structures                             | Appendix (PFDA)             |
+| Functions                                   | Appendix (PFDA)             |
+| Classes Objects & OOP                       | Appendix (PFDA)             |
+| NumPy SciPy Pandas & Matplotlib             | Chps. 3 4 5 & 12 (PFDA)     |
+|                                             |                             |
+| Binomial Model                              | Chps. 10 - 11 (DM)          |
+| Black-Scholes Model                         | Chps. 12 - 13               |
+| Implied Volatility                          | Handout                     |
+| Econometric Volatility Estimation           | Handout                     |
+| Monte Carlo Methods                         | Chp. 19 (DM)                |
+| Exotic Options                              | Chps. 14 & 23 (DM)          |
+| American Options                            | Handout                     |
+| Stochastic Volatility & Jumps               | Chp. 24 (DM)                |
+| Numerical PDF Methods                       | Handout                     |
+|                                             |                             |
+| The Sampling Distribution                   | Handout                     |
+| Monte Carlo Studies                         | Handout                     |
+| The Bayesian Algorithm                      | Chp. 1 (AIMBE)              |
+| Bayesian Linear Regression                  | Chp. 3 (AIMBE)              |
+| Markov Chain Monte Carlo Methods            | Chp. 4 (AIMBE)              |
+| Multivariate Time Series                    | Handouts                    |
+|                                             |                             |
+| Cython                                      | Handout                     |
+| IPython Paralles                            | Handout                     | 
+| GPU Computing                               | Handout                     | 
+
+
 
 Important Dates:
 
