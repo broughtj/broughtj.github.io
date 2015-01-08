@@ -27,7 +27,7 @@ On this page you can review my research publications and work in progress.
 -	Blau, B., Brough, T., and Thomas, D. (2013) [Corporate lobbying, political connections, and the bailout of banks](http://goo.gl/wUsH01),
 	*Journal of Banking and Finance*, Vol. 37, No. 8, pp. 3007 - 3017. 
 
--	Alldredge, D., Blau, B., and Brough, T. (2012) [After Hours Short Selling](http://goo.gl/HLWUcX),
+-	Alldredge, D., Blau, B., and Brough, T. (2012) [Short Selling After Hours](http://goo.gl/HLWUcX),
 	*Journal of Economics and Business*, Vol. 64, No. 6, pp. 439 - 451.
 
 -	Blau, B., and Brough, T. (2012) [Short Sales, Stealth Trading, and the Suspension of the Uptick Rule](http://goo.gl/VHDpUx),
