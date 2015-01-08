@@ -11,7 +11,7 @@ comments: false
 
 ## Syllabus
 
-You can read the syllabus **[here](/teaching/FIN6320/syllabus)**. You can also download the syllabus in **[PDF form]( {{ site.url }}/assets/fin4480/Syllabus.pdf)**.
+You can read the syllabus **[here](/teaching/FIN6320/syllabus)**. You can also download the syllabus in **[PDF form]( {{ site.url }}/assets/fin6320/Syllabus.pdf)**.
 
 
 ## Lecture Notes
