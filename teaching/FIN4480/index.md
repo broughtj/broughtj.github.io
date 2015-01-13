@@ -15,7 +15,7 @@ This course is an introduction to derivative securities, the markets in which th
 You can read the syllabus **[here](/teaching/FIN4480/syllabus)**. You can also download the syllabus in **[PDF form]( {{ site.url }}/assets/fin4480/Syllabus.pdf)**.
 
 
-## Lecture Notes
+## Lecture Notes & Readings
 
 You will be able to download lecture notes **[here](/teaching/FIN4480/lectures)**.
 
