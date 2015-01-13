@@ -20,10 +20,19 @@ trade.
 You can read the syllabus **[here](/teaching/FIN6470/syllabus)**. You can also download the syllabus in **[PDF form]( {{ site.url }}/assets/fin6470/Syllabus.pdf)**.
 
 
+## Readings
+
+* **[I, Pencil]( {{ site.url }}/assets/fin6470/IPencil.pdf)**.
+
+* **[The Use of Knowledge in Society]( {{ site.url }}/assets/fin6470/Hayek_AER1945.pdf)**.
+
 ## Lecture Notes
 
-You will be able to download lecture notes here.
+### Probability Review
 
+* **[Probability Notes I]( {{ site.url }}/assets/fin6470/Probability_Notes_1.pdf)**.
+
+* **[Probability Notes II]( {{ site.url }}/assets/fin6470/Probability_Notes_2.pdf)**.
 
 ## Assignments
 
