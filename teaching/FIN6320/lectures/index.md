@@ -23,6 +23,7 @@ It will launch a vim tutorial (within vim). It is the master reference and will 
 ## IPython Notebooks
 
 * **[PythonBasics.ipynb]( {{ site.url }}/assets/fin6320/PythonBasics.ipynb)**, also available in **[PDF form]( {{ site.url }}/assets/fin6320/PythonBasics.pdf)**.
-
+* **[MonteCarloMethod.ipynb]( {{ site.url }}/assets/fin6320/MonteCarloMethod.ipynb)**, also available in **[PDF form](
+{{ site.url }}/assets/fin6320/MonteCarloMethod.pdf)**.
 
 
