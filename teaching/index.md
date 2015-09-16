@@ -2,12 +2,16 @@
 layout: page
 title: Teaching
 tags: [derivative markets, python, computational methods]
-modified: 2015-01-07
+modified: 2015-09-16
 comments: false 
 ---
 
-In Spring 2015 I will be teaching three courses:
+In Spring 2016 I will be teaching four courses:
 
+## Finance 3200 - Financial Management
+
+**[Finance 3200](/teaching/FIN3200)** is an undergraduate first course in finance for all business majors in the Jon M. Huntsmand School of Business at Utah
+State University. 
 
 ## Finance 4480 - Derivatives Markets
 
