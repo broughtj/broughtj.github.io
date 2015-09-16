@@ -11,7 +11,7 @@ Finance 6320 - Computational Methods in Finance
 * **Instructor:** Tyler J. Brough
 * **Email:** <tyler.brough@aggiemail.usu.edu>  
 * **Office:** BUS 605
-* **Course Dates:** TBD
+* **Course Dates:** January 11 - April 29, 2016
 * **Course Room:** TBD
 * **Course Time:** TBD
 * **Office hours:** TBD 

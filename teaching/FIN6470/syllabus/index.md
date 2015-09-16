@@ -2,7 +2,7 @@
 layout: page
 title: 
 tags: []
-modified: 2015-01-08
+modified: 2015-09-16
 comments: false
 ---
 
@@ -11,10 +11,10 @@ Finance 6470 - Derivatives Markets
 * **Instructor:** Tyler J. Brough
 * **Email:** <tyler.brough@aggiemail.usu.edu>  
 * **Office:** BUS 605
-* **Course Dates:** January 7 - May 1, 2015
-* **Course Room:** [Engineering Laboratory](http://www.usu.edu/map/index.cfm?id=31) 248 
-* **Course Time:** TR 10:30 - 11:45 PM 
-* **Office hours:** TBD 
+* **Course Dates:** January 11 - April 29, 2016 
+* **Course Room:** TBA
+* **Course Time:** TBA 
+* **Office hours:** TBA 
 
 ## Course Description 
 

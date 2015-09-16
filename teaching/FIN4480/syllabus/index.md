@@ -2,7 +2,7 @@
 layout: page
 title: 
 tags: []
-modified: 2015-01-06
+modified: 2015-09-16
 comments: false
 ---
 
@@ -11,10 +11,10 @@ Finance 4480 - Derivatives Markets
 * **Instructor:** Tyler J. Brough
 * **Email:** <tyler.brough@aggiemail.usu.edu>  
 * **Office:** BUS 605
-* **Course Dates:** January 7 - May 1, 2015
-* **Course Room:** [Engineering Laboratory](http://www.usu.edu/map/index.cfm?id=31) 248 
-* **Course Time:** TR 12:00 - 1:15 PM 
-* **Office hours:** TBD 
+* **Course Dates:** January 11 - April 29, 2016
+* **Course Room:** TBA
+* **Course Time:** TBA
+* **Office hours:** TBA 
 
 ## Course Description 
 
@@ -40,13 +40,13 @@ We will be mainly using two different tools for Python:
 
 * The [Sage Math Cloud](https://cloud.sagemath.com/), which I will refer to henceforth as (SMC). This is a free computing service offered by The University of Washington in partnership with [Google](www.google.com). Please create an account as soon as possible.
 
-* The [Anaconda](https://store.continuum.io/cshop/anaconda/) edition of Python by Continuum Analytics. This will have everything that we will need preinstalled. Please install the version that comes with Python 3. It is completely free.
+* The [Anaconda](https://store.continuum.io/cshop/anaconda/) edition of Python by Continuum Analytics. This will have everything that we will need pre-installed. Please install the version that comes with Python 3. It is completely free.
 
 Python is a very good choice for a programming language for this course. As a programming language, Python is fairly easy to learn and can be put to productive use very quickly. Python is quickly becoming the de facto scripting language for scientific computing, and is widely used in the finance industry. Programming will be used as a tool to reinforce learning about derivatives and how they are priced, it will not be the main focus of the course. The amount of programming that you will be required to learn is quite modest. Nevertheless, I cannot emphasize enough how important these skills are for a student of finance to be competitive in the labor market.
 
 ### Linux/UNIX
 
-I also **highly** recomment that you learn a little about the UNIX command line as well. I will be covering some basic material about UNIX in the course, and will use if heavily myself. The SMC is basically a free linux computer in the cloud so you will have access to everything you need to get by. Your grade will not depend on this material at all, but you will find it a very helpful addtion to your skill set.
+I also **highly** recommend that you learn a little about the UNIX command line as well. I will be covering some basic material about UNIX in the course, and will use if heavily myself. The SMC is basically a free linux computer in the cloud so you will have access to everything you need to get by. Your grade will not depend on this material at all, but you will find it a very helpful addition to your skill set.
 
 ## Textbook
 
@@ -63,7 +63,7 @@ While the first book doesn't have a very serious subject (simple computer games)
 
 ## Grading
 
-The grade that you will earn will be determined from your ranking in the class based on the weighted total points accumulated on class preparation and particaption, a class project, as well as on exams. There is no predetermined percentage of the class that will earn an A or that will fail. If you all do excellent work you will all earn exceptional grades. The weights given to each part of the class are as follows:
+The grade that you will earn will be determined from your ranking in the class based on the weighted total points accumulated on class preparation and participation, a class project, as well as on exams. There is no predetermined percentage of the class that will earn an A or that will fail. If you all do excellent work you will all earn exceptional grades. The weights given to each part of the class are as follows:
 
 ### Class Preparation & Participation (20%)
 
