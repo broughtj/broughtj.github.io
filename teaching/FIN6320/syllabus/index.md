@@ -6,14 +6,14 @@ modified: 2015-01-07
 ---
 
 
-Finance 6320 - Computational Methods 
+Finance 6320 - Computational Methods in Finance 
 ====================
 * **Instructor:** Tyler J. Brough
 * **Email:** <tyler.brough@aggiemail.usu.edu>  
 * **Office:** BUS 605
-* **Course Dates:** January 7 - May 1, 2015
-* **Course Room:** [Engineering Laboratory](http://www.usu.edu/map/index.cfm?id=31) 248 
-* **Course Time:** TR 9:00 - 10:15 PM 
+* **Course Dates:** TBD
+* **Course Room:** TBD
+* **Course Time:** TBD
 * **Office hours:** TBD 
 
 
@@ -118,7 +118,3 @@ Python is a very good choice for a programming language for this course. As a pr
 
 Important Dates:
 
-* **Feb 17** - Monday Schedule
-* **Mar 9 - 13** - Spring Break
-* **Apr 24** - Last Day of Classes
-* **Apr 28** - Final Exam
