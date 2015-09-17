@@ -2,11 +2,11 @@
 layout: page
 title: Teaching
 tags: [derivative markets, python, computational methods]
-modified: 2015-09-16
+modified: 2015-09-18
 comments: false 
 ---
 
-In Spring 2016 I will be teaching four courses:
+This site is in the process of being updated (9/18/2015). In Spring 2016 I will be teaching four courses:
 
 ## Finance 3200 - Financial Management
 
