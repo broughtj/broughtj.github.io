@@ -52,7 +52,7 @@ On this page you can review my research publications and work in progress.
 
 # Book
 
-I am under contract with Apress Publishers to write a book titled *Beginning Programming for Financial Analysts in `Python`, `C++`, and `Cython`* to be published in 2016. The book assumes no programming experience, but does assume a familiarity with financial economics at the masters level. 
+I am under contract with Apress Publishers to write a book titled *Beginning Programming for Financial Analysts in Python, C++, and Cython* to be published in 2016. The book assumes no programming experience, but does assume a familiarity with financial economics at the masters level. 
 
 
 
