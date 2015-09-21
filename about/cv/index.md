@@ -8,7 +8,6 @@ comments: false
 
 Also available in **[PDF form]( {{ site.url }}/assets/cv/TylerBroughCV.pdf)**.
 
-
 ## Education
 
 * Ph.D. Finance, University of Arizona, 2010.
@@ -21,21 +20,12 @@ Also available in **[PDF form]( {{ site.url }}/assets/cv/TylerBroughCV.pdf)**.
 
 * Utah State Univeristy, Huntsman School of Business, Department of Economics and Finance
     - Assistant Professor, August 2010 - Present.
-
-
-
 * University of Arizona
     - Research Assistant, August 2005 - July 2010.
     - Instructor, Summer 2007 & Summer 2008.
     - Data Czar, 2006 - 2009.
-
-
-
 * Russell Investment Group
     - Quantitative Analyst, June 2005 - July 2005.
-
-
-
 * Brigham Young University, Marriott School of Business, Department of Finance
     - Research Associate, January 2000 - August 2003.
 
