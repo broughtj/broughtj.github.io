@@ -6,12 +6,7 @@ modified: 2015-09-18
 comments: false 
 ---
 
-This site is in the process of being updated (9/18/2015). In Spring 2016 I will be teaching four courses:
-
-## Finance 3200 - Financial Management
-
-**[Finance 3200](/teaching/FIN3200)** is an undergraduate first course in finance for all business majors in the Jon M. Huntsmand School of Business at Utah
-State University. 
+This site is in the process of being updated (10/26/2015). In Spring 2016 I will be teaching four courses:
 
 ## Finance 4480 - Derivatives Markets
 
