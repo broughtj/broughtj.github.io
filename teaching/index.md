@@ -6,4 +6,9 @@ modified: 2015-09-18
 comments: false 
 ---
 
-I'm in the process of updating this content. Please check back for new material for Fall 2016.
+# Fall 2016 Courses
+
+[Economics 5330](https://broughtj.github.io/Ecn5330)
+
+
+[Finance 5350](https://broughtj.github.io/Fin5350)
