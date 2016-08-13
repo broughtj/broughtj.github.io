@@ -8,7 +8,7 @@ comments: false
 
 # Fall 2016 Courses
 
-[Economics 5330](https://broughtj.github.io/Ecn5330)
+Economics 5330: https://broughtj.github.io/Ecn5330
 
 
-[Finance 5350](https://broughtj.github.io/Fin5350)
+Finance 5350: https://broughtj.github.io/Fin5350
