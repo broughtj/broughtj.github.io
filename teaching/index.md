@@ -8,16 +8,16 @@ comments: false
 
 # Fall 2016 Courses
 
-[Economics 5330](https://broughtj.github.io/Ecn5330)
+[Economics 5330 - Financial Econometrics](https://broughtj.github.io/Ecn5330)
 
 
-[Finance 5350](https://broughtj.github.io/Fin5350)
+[Finance 5350 - Computational Financial Modeling](https://broughtj.github.io/Fin5350)
 
 
 # Spring 2016 Courses
 
-[Finance 6470]()
+[Finance 6470 - Derivatives Markets]()
 
-[Finance 6320]()
+[Finance 6320 - Computational Financial Modeling]()
 
 
