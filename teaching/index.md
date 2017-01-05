@@ -14,7 +14,7 @@ comments: false
 [Finance 5350 - Computational Financial Modeling](https://broughtj.github.io/Fin5350)
 
 
-### Spring 2016 Courses
+### Spring 2017 Courses
 
 [Finance 6470 - Derivatives Markets](https://broughtj.github.io/Fin6470)
 
