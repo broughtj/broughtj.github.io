@@ -16,8 +16,8 @@ comments: false
 
 ### Spring 2016 Courses
 
-[Finance 6470 - Derivatives Markets]()
+[Finance 6470 - Derivatives Markets](https://broughtj.github.io/Fin6470)
 
-[Finance 6320 - Computational Financial Modeling]()
+[Finance 6320 - Computational Financial Modeling](https://broughtj.github.io/Fin6320)
 
 
