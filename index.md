@@ -6,8 +6,6 @@ layout: basic
 
 Tyler J. Brough. I'm a [finance professor][usu]; I'm on [GitHub];
 
-<br>
-
 Please see my [Academic] site for information regarding my teaching and research.
 
 
