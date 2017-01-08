@@ -11,10 +11,9 @@ were sparked by this statement by [James M. Buchanan][jbm] (which you can find [
 > so.
 
 
-Journal rankings become the currency of rent seeking among academics. It amazes me how unthinkingly many, otherise very intelligent and analytical people, sorry passively accept "the way things are" when it comes to the importance of journal rankings. 
+Journal rankings become the currency of rent seeking among academics. It amazes me how unthinkingly many, otherise very intelligent and analytical people, so passively accept "the way things are" when it comes to the importance of journal rankings and such things. 
 
-We are the poorer for thinking so narrowly.
-
+We are the poorer for such narrow thinking. 
 
 [jbm]: https://en.wikipedia.org/wiki/James_M._Buchanan
 [cato]: https://object.cato.org/sites/cato.org/files/serials/files/cato-journal/1989/5/cj9n1-10.pdf
