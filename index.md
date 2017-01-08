@@ -13,7 +13,7 @@ If you're really bored you can read my [blog], which I don't post to very often.
 
 [usu]: https://huntsman.usu.edu/about/faculty?faculty-directory&memberID=5181
 [GitHub]: https://github.com/broughtj
-[Academic]: https://broughtj.github.io/Academic
+[Academic]: /academic/index.md
 [blog]: /blog/index.html
 
 
