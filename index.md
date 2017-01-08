@@ -2,7 +2,7 @@
 layout: basic
 ---
 
-<img src="/images/tyler-brough.jpg" width=256 height=256 />
+<img src="/images/buddy.jpg" width=256 height=256 />
 
 Tyler J. Brough. I'm a [finance professor][usu]; I'm on [GitHub];
 
