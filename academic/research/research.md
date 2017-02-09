@@ -16,7 +16,7 @@ On this page you can review my research publications and work in progress.
 	*Journal of Banking and Finance*, Vol. 76, pp. 32 - 47
 
 -	Blau, B., and Brough, T. (2015) [Are Put-Call Ratios a Substitute for Short Sales?](http://link.springer.com/article/10.1007/s11147-014-9102-3) 
-	Forthcoming at *Review of Derivatives Research*.
+	*Review of Derivatives Research*, Vol. 18, No. 1, pp. 51 - 73
 
 -	Blau, B., and Brough, T. (2014) [Short Sales and Option Listing Decisions](http://goo.gl/bFUpCD)
 	*Financial Management*, Vol. 43, No. 3, pp. 703 - 724.
