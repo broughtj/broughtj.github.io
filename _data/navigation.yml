@@ -1,11 +1,11 @@
 main:
   - title: "Teaching"
-    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /teaching/
   - title: "Research"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /research/ 
   - title: "Posts"
-  #   url: /year-archive/
+    url: /posts/
   - title: "About"
-  #   url: /collection-archive/
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
